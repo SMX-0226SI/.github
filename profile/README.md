@@ -1,6 +1,6 @@
 # 0226 Seguretat Informàtica
 
-![Profile Image](logo-0226.png)
+![Profile Image](logo-0226SI.png)
 
 Repositori del mòdul 0226 Seguretat Informàtica del cicle formatiu de grau mitjà Sistemes Microinformàtics i Xarxes a Escola Pia de Mataró.
 
