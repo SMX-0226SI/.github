@@ -21,11 +21,11 @@ A la programació del mòdul teniu detallada tota la informació sobre el contin
 
 El mòdul s'organitza en 5 nuclis formatius (NF) que es corresponen amb els resultats d’aprenentatge (RA) que s’han de desenvolupar al llarg del curs.
 
-- NF1: Seguretat física i passiva (RA1) 15 hores
-- NF2: Emmagatzematge i còpies de seguretat (RA2) 15 hores
+- NF1: Seguretat física i passiva (RA1) 18 hores
+- NF2: Emmagatzematge i còpies de seguretat (RA2) 18 hores
 - NF3: Seguretat Activa i protecció contra programari maliciós (RA3) 24 hores
 - NF4: Legislació i normativa sobre seguretat i protecció de dades (RA5) 12 hores
-- NF5:Seguretat en xarxa i privadesa (RA4) 33 hores
+- NF5:Seguretat en xarxa i privadesa (RA4) 27 hores
 
 ## Resultats d’aprenentatge
 
@@ -42,7 +42,7 @@ Tot i que l'avaluació es basa en els Resultats d'Aprenentatge (RA), que és el 
 ### Qualificació del mòdul
 
 $$
-QMP = 0.14·RA1 + 0.14·RA2 + 0.20·RA3 + 0.32·RA4 + 0.10·RA5 + 0.10·EP
+QMP = 0,16·RA1 + 0,16·RA2 + 0,22·RA3 + 0,25·RA4 + 0,11·RA5 + 0,10·EP
 $$
 
 Per aprovar el mòdul professional:
