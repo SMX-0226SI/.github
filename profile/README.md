@@ -89,3 +89,6 @@ Disposeu d'apunts dels diferents nuclis formatius, així com de les activitats i
 ## Ús de la IA
 
 ## Enllaços al contingut
+
+- [Apunts teoria del mòdul](https://github.com/smx-0226si/Materials)
+- [Relació d'activitats i pràctiques](activitats.md)
