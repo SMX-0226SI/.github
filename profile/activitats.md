@@ -30,7 +30,7 @@ Relació d'activitats i pràctiques classificades pels diferents nuclis formatiu
 
 - [Criptografia i xifrat de dades]()
 
-- [Signatura digital]()
+- [Recuperació de dades]()
 
 ## NF4 Legislació i normativa sobre seguretat i protecció de dades
 
@@ -45,3 +45,5 @@ Relació d'activitats i pràctiques classificades pels diferents nuclis formatiu
 - [Tallafocs UFW en servidors Ubuntu]()
 
 - [Delictes informàtics i ciberseguretat]()
+
+- [Signatura digital]()
