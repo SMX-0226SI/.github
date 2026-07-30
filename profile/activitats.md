@@ -30,7 +30,7 @@ Relació d'activitats i pràctiques classificades pels diferents nuclis formatiu
 
 - [Criptografia i xifrat de dades]()
 
-- [Recuperació de dades]()
+- [Recuperació de dades](https://github.com/SMX-0226SI/0226NF3RecuperacioDades)
 
 ## NF4 Legislació i normativa sobre seguretat i protecció de dades
 
