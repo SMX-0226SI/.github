@@ -4,13 +4,13 @@ Relació d'activitats i pràctiques classificades pels diferents nuclis formatiu
 
 ## NF1. Seguretat passiva
 
--[Activitats Seguretat a l'entorn físic](https://github.com/SMX-0226SI/0226-NF1A2ActivitatSegFisica)
+- [Activitats Seguretat a l'entorn físic](https://github.com/SMX-0226SI/0226-NF1A2ActivitatSegFisica)
 
 - [Selecció d'un SAI](https://github.com/SMX-0226SI/0226NF1-AA2ActivitatSAI)
 
 - [Seguretat Lògica: Cracking de contrasenyes](https://github.com/SMX-0226SI/0226NF1A3-ActivitatCrackingPasswords)
 
-- [Seguretat Lògica: Gestor de contrasenyes]()
+- [Seguretat Lògica: Gestor de contrasenyes](https://github.com/SMX-0226SI/NF1AA3-GestorContrasenyes)
 
 ## NF2. Seguretat a l'emmagatzematge i còpies de seguretat
 
@@ -18,9 +18,9 @@ Relació d'activitats i pràctiques classificades pels diferents nuclis formatiu
 
 - [LVM i espais d'emmagatzematge]()
 
-- [Còpies de seguretat amb Duplicity]()
+- [Còpies de seguretat amb Duplicity](https://github.com/SMX-0226SI/0226NF2-CopiesSeguretatDuplicity)
 
-- [Còpies de seguretat en entorns Windows]()
+- [Còpies de seguretat en entorns Windows](https://github.com/SMX-0226SI/0226NF2-CopiesSeguretatWindows)
 
 ## NF3 Seguretat Activa
 
@@ -28,7 +28,7 @@ Relació d'activitats i pràctiques classificades pels diferents nuclis formatiu
 
 - [Anàlisi de vulnerabilitats](https://github.com/SMX-0226SI/NF3AA2-AnalisiVulnerabilitats)
 
-- [Criptografia i xifrat de dades]()
+- [Criptografia i xifrat de dades](https://github.com/SMX-0226SI/NF3AA4-Criptografia)
 
 - [Recuperació de dades](https://github.com/SMX-0226SI/0226NF3RecuperacioDades)
 
