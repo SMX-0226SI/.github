@@ -40,6 +40,8 @@ Col·lecció d'activitats i pràctiques classificades pels diferents nuclis form
 
 - [Anàlisi de trànsit amb Wireshark](https://github.com/SMX-0226SI/NF5AA4-Wireshark)
 
+- [Exploració de xarxa](https://github.com/SMX-0226SI/NF5AA2-NMAP)
+
 - ![SOON](https://img.shields.io/badge/SOON-FCC624?style=for-the-badge&logo=SOON&logoColor=black)[Tallafocs perimetral](https://github.com/SMX-0226SI/)
 
 - ![SOON](https://img.shields.io/badge/SOON-FCC624?style=for-the-badge&logo=SOON&logoColor=black)[Tallafocs UFW en servidors Ubuntu](https://github.com/SMX-0226SI/)
