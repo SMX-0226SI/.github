@@ -26,7 +26,7 @@ Col·lecció d'activitats i pràctiques classificades pels diferents nuclis form
 
 - [Anàlisi de vulnerabilitats](https://github.com/SMX-0226SI/NF3AA2-AnalisiVulnerabilitats)
 
-- ![SOON](https://img.shields.io/badge/SOON-FCC624?style=for-the-badge&logo=SOON&logoColor=black)[Criptografia i xifrat de dades](https://github.com/SMX-0226SI/)
+- [Criptografia](https://github.com/SMX-0226SI/NF3AA3-Criptografia)
 
 - [Recuperació de dades](https://github.com/SMX-0226SI/0226NF3RecuperacioDades)
 
