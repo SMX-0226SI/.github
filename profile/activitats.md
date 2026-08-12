@@ -1,6 +1,6 @@
 # Relació pràctiques i activitats
 
-Col·lecció d'activitats i pràctiques classificades pels diferents nuclis formatius. És un recull pensat no per a fer-les totes, sinó per a que seleccioneu aquelles que considereu més rellevants.
+Col·lecció d'activitats i pràctiques classificades pels diferents nuclis formatius per seleccionar-les segons les necessitats o preferències.
 
 ## NF1. Seguretat passiva
 
@@ -16,9 +16,7 @@ Col·lecció d'activitats i pràctiques classificades pels diferents nuclis form
 
 ## NF2. Seguretat a l'emmagatzematge i còpies de seguretat
 
-- ![SOON](https://img.shields.io/badge/SOON-FCC624?style=for-the-badge&logo=SOON&logoColor=black)[LVM](https://github.com/SMX-0226SI)
-
-- [Espais d'emmagatzematge](https://github.com/SMX-0226SI/NF2AA2-StorageSpaces)
+- [Espais d'emmagatzematge (LVM i Storage Spaces)](https://github.com/SMX-0226SI/NF2AA2-GestioDiscos)
 
 - [Còpies de seguretat](https://github.com/SMX-0226SI/NF2AA3-CopiesSeguretat)
 
