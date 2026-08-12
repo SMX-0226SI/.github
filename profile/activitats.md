@@ -32,6 +32,8 @@ Col·lecció d'activitats i pràctiques classificades pels diferents nuclis form
 
 ## NF4 Legislació i normativa sobre seguretat i protecció de dades
 
+- [Vídeos formatius sobre LOPD-GDD](https://github.com/SMX-0226SI/NF4AA1-VideosLOPD)
+
 - ![SOON](https://img.shields.io/badge/SOON-FCC624?style=for-the-badge&logo=SOON&logoColor=black)[Adaptació pàgina web a LOPD-GDD i LSSI-CE](https://github.com/SMX-0226SI/)
 
 ## NF5 Seguretat en xarxa i privadesa
