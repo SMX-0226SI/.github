@@ -48,6 +48,6 @@ Col·lecció d'activitats i pràctiques classificades pels diferents nuclis form
 
 - ![SOON](https://img.shields.io/badge/SOON-FCC624?style=for-the-badge&logo=SOON&logoColor=black)[Signatura digital](https://github.com/SMX-0226SI/)
 
-- ![SOON](https://img.shields.io/badge/SOON-FCC624?style=for-the-badge&logo=SOON&logoColor=black)[Tallafocs perimetral](https://github.com/SMX-0226SI/)
+- [Tallafocs UFW en servidors Ubuntu](https://github.com/SMX-0226SI/NF5AA4-UFW)
 
-- ![SOON](https://img.shields.io/badge/SOON-FCC624?style=for-the-badge&logo=SOON&logoColor=black)[Tallafocs UFW en servidors Ubuntu](https://github.com/SMX-0226SI/)
+- ![SOON](https://img.shields.io/badge/SOON-FCC624?style=for-the-badge&logo=SOON&logoColor=black)[Tallafocs perimetral](https://github.com/SMX-0226SI/)
