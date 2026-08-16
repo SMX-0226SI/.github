@@ -50,4 +50,4 @@ Col·lecció d'activitats i pràctiques classificades pels diferents nuclis form
 
 - [Tallafocs UFW en servidors Ubuntu](https://github.com/SMX-0226SI/NF5AA4-UFW)
 
-- ![SOON](https://img.shields.io/badge/SOON-FCC624?style=for-the-badge&logo=SOON&logoColor=black)[Tallafocs perimetral](https://github.com/SMX-0226SI/)
+- [Tallafocs perimetral](https://github.com/SMX-0226SI/NF5AA4-FirewallPerimetral)
