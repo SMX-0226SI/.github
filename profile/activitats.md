@@ -38,7 +38,7 @@ Col·lecció d'activitats i pràctiques classificades pels diferents nuclis form
 
 ## NF5 Seguretat en xarxa i privadesa
 
-- ![Enginyeria Social i phising](https://github.com/SMX-0226SI/NF5AA1-Phising)
+- [Enginyeria Social: phising](https://github.com/SMX-0226SI/NF5AA1-Phising)
 
 - [Network Miner](https://github.com/SMX-0226SI/NF5AA2-NetWorkMiner)
 
