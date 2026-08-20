@@ -42,7 +42,7 @@ Tot i que l'avaluació es basa en els Resultats d'Aprenentatge (RA), que és el 
 ### Qualificació del mòdul
 
 $$
-QMP = 0,16·RA1 + 0,16·RA2 + 0,22·RA3 + 0,25·RA4 + 0,11·RA5 + 0,10·EP
+Q_{MP} = 0,16·RA1 + 0,16·RA2 + 0,22·RA3 + 0,25·RA4 + 0,11·RA5 + 0,10·EP
 $$
 
 Per aprovar el mòdul professional:
@@ -55,11 +55,14 @@ Per aprovar el mòdul professional:
 ### Avaluació contínua
 
 Cada Resultat d'Aprenentatge s'avalua de manera independent seguint la següent distribució ponderada:
-QRA = 35% Examen + 35% Activitats + 30% CPO
+
+$$
+Q_{RA} = 35\% Examen + 35\% Activitats + 30\% CPO
+$$
 
 Es detallen a continuació els instruments d'avaluació:
 
-a. Examen (30%)
+a. Exàmens (30%)
 
 Consisteix en una prova teòrico-pràctica realitzada en finalitzar el Nucli Formatiu corresponent.
 
@@ -69,8 +72,8 @@ b. Activitats i Seguiment (40%)
 
 Aquesta part de la nota inclou la mitjana de les pràctiques, exercicis entregables.
 
-- Sistema de puntuació: Si una activitat s'avalua amb escala qualitativa, l'equivalència és: FET = 10 punts; NO FET = 0 punts.
-- **Obligatorietat**: L'entrega de les activitats és obligatòria per poder ser avaluat de l'RA.
+- Sistema de puntuació: Si una activitat s'avalua amb escala qualitativa, l'equivalència és: FET = 10 punts; NO FET = 0 punts. La resta de les activitats s'avaluen amb escala numèrica de 0 a 10 punts. La mitjana ponderada d'aquestes activitats serà la nota final d'aquesta part de l'avaluació.
+- **Obligatorietat**: L'entrega de les activitats és obligatòria per poder ser avaluat del RA corresponent.
 
 c. Competències personals i socials (30%)
 
@@ -84,9 +87,33 @@ El procés d’avaluació en segona convocatòria treballa per RAs, on cada RA s
 
 Disposeu d'apunts dels diferents nuclis formatius, així com de les activitats i pràctiques que s'han de realitzar al llarg del curs. A més, trobareu referències a webs i vídeos que us poden ser d'utilitat.
 
-**Obligatori:** un pendrive o unitat externa de mida suficient per poder realitzar còpies de les ISO i de les màquines virtuals que s'utilitzaran al llarg del curs.
+**Obligatori:** un pendrive o unitat SSD externa de mida suficient per poder realitzar còpies de les ISO i de les màquines virtuals que s'utilitzaran al llarg del curs.
 
-## Ús de la IA
+## 🧠 Utilització de la IA
+
+L'ús de la intel·ligència artificial (IA) a l'assignatura de Seguretat Informàtica ha de ser un complement que fomenti el pensament crític i l'aprenentatge actiu, no un substitut del raonament propi. Com a futurs professionals del sector, la responsabilitat, la rigorosa verificació de dades i la protecció de la informació han de guiar qualsevol interacció amb eines generatives.
+
+### Principis Ètics i de Seguretat
+
+- **Rigor i verificació:** Les eines de IA generativa poden produir respostes inexactes o "al·lucinacions". És responsabilitat de l'estudiant contrastar sempre la informació amb documentació tècnica o fonts oficials.
+- **Confidencialitat i privadesa:** La protecció de dades és un pilar fonamental de la seguretat informàtica. Queda estrictament prohibit introduir en plataformes de IA dades personals, credencials, claus privades o codi font d'infraestructures reals.
+- **Autoria i transparència:** La IA actua com a eina de suport, mai com a autor. L'alumnat assumeix la responsabilitat intel·lectual i tècnica total del contingut presentat en els seus lliuraments.
+
+### Nivells d'Ús de la IA
+
+#### 🔴 Ús No Permès
+
+- Exàmens, controls i proves d'avaluació.
+- Tasques, activitats o exercicis on el professorat especifiqui explícitament la prohibició de la IA.
+
+#### 🟠 Ús Acceptable (opcional)
+
+- Permès per com a eina de suport en la millora de la redacció dels informes, cerca preliminar d'informació, estructuració d'idees o explicació de conceptes teòrics complexos.
+- **Condicions:** Cal processar, entendre i validar sempre els resultats rebuts. **Està totalment prohibit** copiar l'enunciat d'un exercici directament al xat de la IA i enganxar la resposta generada per al lliurament final sense treball propi ni anàlisi crítica.
+
+#### 🟢 Ús Obligatori
+
+Activitats i laboratoris dissenyats específicament per treballar l'ús d'eines de IA generativa integrades amb els continguts de la matèria (per exemple, la detecció de vulnerabilitats en codi generat per IA, l'anàlisi de biaixos d'algoritmes o l'optimització de consultes de seguretat).
 
 ## Enllaços al contingut
 
