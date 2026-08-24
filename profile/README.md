@@ -113,7 +113,7 @@ L'ús de la intel·ligència artificial (IA) a l'assignatura de Seguretat Inform
 
 #### 🟢 Ús Obligatori
 
-Activitats i laboratoris dissenyats específicament per treballar l'ús d'eines de IA generativa integrades amb els continguts de la matèria (per exemple, la detecció de vulnerabilitats en codi generat per IA, l'anàlisi de biaixos d'algoritmes o l'optimització de consultes de seguretat).
+Activitats i laboratoris dissenyats específicament per treballar l'ús d'eines de IA generativa integrades amb els continguts de la matèria (per exemple, generació de webs bàsiques, creació scripts, etc.).
 
 ## Enllaços al contingut
 
