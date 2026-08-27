@@ -48,6 +48,8 @@ Col·lecció d'activitats i pràctiques classificades pels diferents nuclis form
 
 - [PKI i Signatura digital](https://github.com/SMX-0226SI/NF5AA3-SignaturaDigital)
 
+- [Correu segur amb Mailvelope](https://github.com/SMX-0226SI/NF5AA3-CorreuSegur)
+
 - [Tallafocs UFW en servidors Ubuntu](https://github.com/SMX-0226SI/NF5AA4-UFW)
 
 - [Tallafocs perimetral](https://github.com/SMX-0226SI/NF5AA4-FirewallPerimetral)
