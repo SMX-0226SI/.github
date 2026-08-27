@@ -117,5 +117,5 @@ Activitats i laboratoris dissenyats específicament per treballar l'ús d'eines 
 
 ## Enllaços al contingut
 
-- [Apunts teoria del mòdul](https://github.com/smx-0226si/Materials)
-- [Relació d'activitats i pràctiques](activitats.md)
+- ### [Apunts teoria del mòdul](https://github.com/smx-0226si/Materials)
+- ### [Relació d'activitats i pràctiques](activitats.md)
