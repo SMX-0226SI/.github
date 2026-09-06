@@ -106,16 +106,23 @@ L'ús de la intel·ligència artificial (IA) a l'assignatura de Seguretat Inform
 - Exàmens, controls i proves d'avaluació.
 - Tasques, activitats o exercicis on el professorat especifiqui explícitament la prohibició de la IA.
 
-#### 🟠 Ús Acceptable (opcional)
+#### 🟠 Ús Parcial o restringit
 
 - Permès per com a eina de suport en la millora de la redacció dels informes, cerca preliminar d'informació, estructuració d'idees o explicació de conceptes teòrics complexos.
 - **Condicions:** Cal processar, entendre i validar sempre els resultats rebuts. **Està totalment prohibit** copiar l'enunciat d'un exercici directament al xat de la IA i enganxar la resposta generada per al lliurament final sense treball propi ni anàlisi crítica.
 
-#### 🟢 Ús Obligatori
+#### 🟢 Permès totalment
 
-Activitats i laboratoris dissenyats específicament per treballar l'ús d'eines de IA generativa integrades amb els continguts de la matèria (per exemple, generació de webs bàsiques, creació scripts, etc.).
+- La IA és una eina co-pilot essencial. Es valora el procés de treball amb ella, però és obligatori un procés de validació posterior (defensa oral, vídeo, auditoria de prompts).
+- Projectes d'investigació, generació de codi, pluja d'idees inicial, creació de productes complexos.
+
+#### 🔵 Ús obligatori
+
+- La IA forma part explícita de l’objectiu d’aprenentatge. Has d’utilitzar-la, analitzar-la, comparar-la o auditar-la seguint instruccions concretes.
+- Generació de imatges, contingut multimèdia o web.
 
 ## Enllaços al contingut
 
 - ### [Apunts teoria del mòdul](https://github.com/smx-0226si/Materials)
+
 - ### [Relació d'activitats i pràctiques](activitats.md)
