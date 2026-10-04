@@ -26,7 +26,7 @@ Col·lecció d'activitats i pràctiques classificades pels diferents nuclis form
 
 - [Malware](https://github.com/SMX-0226SI/NF3AA1-Malware)
 
-- [Anàlisi de vulnerabilitats](https://github.com/SMX-0226SI/NF3AA2-AnalisiVulnerabilitats)
+- [Anàlisi de vulnerabilitats](https://github.com/SMX-0226SI/NF3AA2-Vulnerabilitats)
 
 - [Criptografia](https://github.com/SMX-0226SI/NF3AA3-Criptografia)
 
