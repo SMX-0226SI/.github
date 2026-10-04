@@ -18,7 +18,7 @@ Col·lecció d'activitats i pràctiques classificades pels diferents nuclis form
 
 - [Espais d'emmagatzematge (LVM i Storage Spaces)](https://github.com/SMX-0226SI/NF2AA2-GestioDiscos)
 
-- [Planificació de còpies de seguretat](https://github.com/SMX-0226SI/NF2AA3-PlaCopiesSeguretat)
+- [Planificació de còpies de seguretat](NF2AA2-PlaCopies)
 
 - [Còpies de seguretat](https://github.com/SMX-0226SI/NF2AA3-CopiesSeguretat)
 
